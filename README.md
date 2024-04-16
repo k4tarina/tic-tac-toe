@@ -13,7 +13,7 @@ To run this game, you need the following installed:
 1. Clone or download the repository to your local machine.
 2. Open Jupyter Notebook.
 3. Navigate to the directory where you cloned or downloaded the repository.
-4. Open the `TicTacToe.ipynb` file.
+4. Open the `tic-tac-toe.ipynb` file.
 
 ## How to Play
 
